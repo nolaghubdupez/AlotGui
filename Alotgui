@@ -500,7 +500,7 @@ loadAgeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 loadAgeBtn.MouseButton1Click:Connect(function()
 
-    
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ApJ70HU69W/0", true))()
 
 -- ðŸ‘¤ Credit
 
